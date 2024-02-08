@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MechanicalPhantom
-- 👀 I’m interested in: philosophy, cognitive science, computer science, neuroscience, biology, physics, mathematics
-- 🌱 I’m currently learning: philosophy, cognitive science, computer science, neuroscience, biology, physics, mathematics
+- 👀 Website: https://sacrilegious-theosis.gitbook.io/sacrilegious-theosis
 - 📫 How to reach me: idontknowanythingfunny@gmail.com
 - ⚡ Avatar Credits: [Garyck Arntzen](https://www.garyckarntzen.com/spiritual)
 
