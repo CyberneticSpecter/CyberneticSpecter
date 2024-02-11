@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CyberneticSpecter
-- 👀 Website: https://sacrilegious-theosis.gitbook.io/sacrilegious-theosis
+- 👀 Website: https://sacrilegious-theosis.gitbook.io
 - 📫 How to reach me: idontknowanythingfunny@gmail.com
 - ⚡ Avatar Credits: [Garyck Arntzen](https://www.garyckarntzen.com/spiritual)
 
